@@ -1,0 +1,8 @@
+log_message,target_label
+Lead conversion failed for prospect ID 7842 due to missing contact information.,Workflow Error
+API endpoint 'getCustomerDetails' is deprecated and will be removed in version 3.2. Use 'fetchCustomerInfo' instead.,Deprecation Warning
+Customer follow-up process for lead ID 5621 failed due to missing next action,Workflow Error
+Escalation rule execution failed for ticket ID 9807 - undefined escalation level.,Workflow Error
+The 'ExportToCSV' feature is outdated. Please migrate to 'ExportToXLSX' by the end of Q3.,Deprecation Warning
+Support for legacy authentication methods will be discontinued after 2025-06-01.,Deprecation Warning
+Task assignment for TeamID 3425 could not complete due to invalid priority level.,Workflow Error

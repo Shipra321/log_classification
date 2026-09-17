@@ -1,0 +1,15 @@
+fastapi
+groq
+joblib
+langchain
+langchain-core
+langchain-groq
+langgraph
+numpy
+pandas
+python-dotenv
+python-multipart
+scikit-learn
+sentence-transformers
+streamlit
+uvicorn
